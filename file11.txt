@@ -1,0 +1,5 @@
+data/team-1.jpg: Predicted in 10.356425 seconds.
+cellular telephone: 1%
+canyon oak: 1%
+stubble: 16%
+Abyssinian: 4%
